@@ -1,0 +1,7 @@
+web developer :
+-html
+-css
+-javascript
+-bootstrap
+-php
+-laravel
