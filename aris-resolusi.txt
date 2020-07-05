@@ -6,4 +6,5 @@ web developer :
 -laravel
 -codeigniter
 -react native
+-javascript
 
