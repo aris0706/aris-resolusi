@@ -1,2 +1,2 @@
-# aris-resolusi
-resolusi aris untuk kedepan
+# belajar-github
+tahap pertama belajar github
